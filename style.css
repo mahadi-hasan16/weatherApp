@@ -55,6 +55,7 @@ body{
 }
 #btn{
   background: transparent;
+  cursor: pointer;
   border: none;
   outline: none;
   width: 10%;
